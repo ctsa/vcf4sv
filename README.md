@@ -22,14 +22,16 @@ All examples are drawn from public Platinum Genomes data for NA12878
 
 ## Exact VCF position examples for common SV types:
 
-### Deletions (using VCF symbolic <DEL> allele)
+### Deletions (using VCF symbolic \<DEL\> allele)
 
 #### Left end
 
 POS indicates right-most position before crossing the left-shifted deletion left breakend:
 
+![image](https://cloud.githubusercontent.com/assets/1349103/8995880/33972236-36c9-11e5-8408-ab1daf04cd66.png)
 
 #### Right end
 END indicates right-most position before crossing the left-shifted deletion right breakend
 
+![image](https://cloud.githubusercontent.com/assets/1349103/8995887/3d969636-36c9-11e5-95a3-be0700efb5d9.png)
 
